@@ -1,0 +1,4 @@
+1;Hugo;HugoJc@email.com;22;118.0;180.0
+2;Pedro;Pedro@eee.com;22;80.0;170.0
+3;Sartre;Vini.S@eee.com;19;73.0;1.7
+4;Anderson Lucena;Andersongostosinho@Gmail.com;24;68.0;1.8
